@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentGDSC</string>
+    <string name="email">email</string>
+    <string name="image">image</string>
+</resources>
